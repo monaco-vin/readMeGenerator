@@ -10,6 +10,7 @@ USAGE:
 Type "npm start" into your command line program once you have navigated to the program's directory. Answer the prompts to display and update your tables.
 
     DEMO:
+    https://youtu.be/FXvZ2gLsSEA
 
 CONTRIBUTORS: Vincent Monaco
 
